@@ -1,5 +1,4 @@
 # 🗺️ Mapty App
-
 Mapty is a location-based fitness tracking application that lets users log running and cycling workouts directly on an interactive map using Leaflet.js. It stores workout data in the browser's local storage and provides a dynamic and visually engaging interface to review past workouts.
 
 🚀 Live Demo
